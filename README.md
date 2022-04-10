@@ -1,6 +1,6 @@
 # Tictactoe in cpp
 ## How to run
-install a c++ compiler (ex g++)
+install a c++ compiler (eg g++)
 then run 
 ```bash
 git clone https://github.com/raresNagy/tictactoe
@@ -8,7 +8,7 @@ git clone https://github.com/raresNagy/tictactoe
 to clone the repo
 to compile, run
 ```bash
-g++ -o tictactoe ./tictactoe/main.cpp
-./tictactoe
+g++ -o ttt ./tictactoe/main.cpp #ignore the warnings
+./ttt
 ```
-and you're donw
+and you're done 
